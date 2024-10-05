@@ -55,7 +55,6 @@
 ## Output:
 ![img_1](https://github.com/user-attachments/assets/bfaa9eab-0a6e-4b44-bcfb-496d680c4134)
 
-![img_2](https://github.com/user-attachments/assets/b57bff52-463d-49cc-83a7-5f772d116bc8)
 
 ### Name:JEEVA K
 ### Register Number: 212223230090
